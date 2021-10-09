@@ -1,0 +1,10 @@
+﻿  main.cpp
+  cl_version.h: CL_TARGET_OPENCL_VERSION is not defined. Defaulting to 220 (OpenCL 2.2)
+C:\Users\Nikola\OneDrive\Desktop\postavka\MatrixMultiplication\main.cpp(65,1): warning C4129: '	': unrecognized character escape sequence
+C:\Users\Nikola\OneDrive\Desktop\postavka\MatrixMultiplication\main.cpp(262,14): warning C4996: 'clCreateCommandQueue': was declared deprecated
+  Generating code
+  1 of 15 functions ( 6.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MatrixAddition.vcxproj -> C:\Users\Nikola\OneDrive\Desktop\postavka\MatrixMultiplication\Release\MatrixAddition.exe

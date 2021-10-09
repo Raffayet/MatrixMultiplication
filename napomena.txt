@@ -1,0 +1,17 @@
+Meni program konstantno izbacuje error -30, iako su sve putanje dobro namestene i identicne kao na video klipu sa vezbi gde se objasnjava
+koncept OpenCL-a.
+
+Putanje su sledece: 
+
+C/C++/General/Additional Include Directories: C:\Program Files (x86)\IntelSWTools\system_studio_2020\OpenCL\sdk\include;%(AdditionalIncludeDirectories)
+
+Linker/General/Additional Library Directories: C:\Program Files (x86)\IntelSWTools\system_studio_2020\OpenCL\sdk\lib\x86;%(AdditionalLibraryDirectories)
+
+Linker/Input/Additional Dependecies: OpenCL.lib;%(AdditionalDependencies)
+
+=========================================================================================================================================================
+
+Konfiguracija mog racunara:
+
+CPU: AMD FX(TM) 6300 - Six core processor
+GPU: AMD Radeon(TM) R7 360 Series
